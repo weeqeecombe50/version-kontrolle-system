@@ -1,6 +1,6 @@
 {
   "name": "version-kontrolle-system",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ein einfaches Versionskontrolle System",
   "main": "index.js",
   "scripts": {
